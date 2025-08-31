@@ -10,7 +10,7 @@ We welcome contributions from everyone! Here’s how you can help:
 5. Open a Pull Request.
 
 ## Guidelines
-- Ensure your code adheres to the existing style of the project.
+- Ensure your code adheres to the existing style of the project, including naming conventions, indentation, and commenting practices.
 - Test your changes to ensure they work as expected.
 - Provide a clear description of what your changes do.
 
